@@ -1,2 +1,3 @@
 # concentric-circle-spinner
- Circle thing
+concentric circle spinner
+used pug and css
